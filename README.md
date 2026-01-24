@@ -40,5 +40,9 @@ This project detects fraudulent credit card transactions using machine learning 
 2. Place it in the project folder
 3. Run the Jupyter Notebook
 
+   ## 📦 Installation
+```bash
+pip install -r requirements.txt
+
 ## 👤 Author
 Hassan Ali
